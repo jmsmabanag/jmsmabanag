@@ -7,6 +7,11 @@
 ## Objective
 My journey as a Technical Support has led me to develop a passion for cybersecurity. I am now eager to transition into this field and aim to join a Security Operations Center as an Analyst.
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Project</b>
+  - [Creating Active Directory and linking it to a Splunk Server](https://github.com/jmsmabanag/Active-Directory)
+  
 ## Skills
 - Hardware and Software Troubleshooting
 - Windows, MAC, and Linux OS
