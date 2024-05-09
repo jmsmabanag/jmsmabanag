@@ -4,10 +4,6 @@
 - Email: jmsmabanag@gmail.com
 - Phone: (+63) Available upon request
 
-## Summary
-I started as a Market research interviewer at Dynata and am now a current Technical Support at the same company. I honed my communication and interpersonal skills. Essential for successful interviewing in collecting accurate and valuable data in my previous role as a market research interviewer. 
-I bring advanced troubleshooting skills, a keen eye for detail, and a strong customer focus, drawing from my four years as a Technical Support.  I continue to enhance my technical skills and problem-solving abilities in dealing with diverse technical issues.
-
 ## Objective
 My journey as a Technical Support has led me to develop a passion for cybersecurity. I am now eager to transition into this field and aim to join a Security Operations Center as an Analyst.
 
